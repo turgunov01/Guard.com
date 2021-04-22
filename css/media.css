@@ -1,0 +1,333 @@
+@media (max-width: 1920px) {
+    .dropdownsss {
+        display: none;
+    }
+}
+@media (max-width: 1440px) {
+    .dropdownsss {
+        display: none;
+    }
+}
+@media (max-width: 1366px) {
+    .dropdownsss {
+        display: none;
+    }
+}
+@media (max-width: 1320px) {
+    .dropdownsss {
+        display: none;
+    }
+}
+@media (max-width: 1290px) {
+    .dropdownsss {
+        display: none;
+    }
+}
+@media (max-width: 1140px) {
+    .dropdownsss {
+        display: none;
+    }
+}
+
+@media (max-width: 1024px) {
+    .card {
+        width: 190px;
+    }
+    .dropdownsss {
+        display: none;
+    }
+    .podrobni {
+        font-size: 14px;
+    }
+
+    .numbers {
+        display: none;
+    }
+
+    .fa-check-circle {
+        display: none;
+    }
+
+    .fa-chevron-down {
+        display: none;
+    }
+
+    .logo_img {
+        width: 150px;
+    }
+
+    .nav_link {
+         font-size: 14px;
+    }
+    .fas  {
+        padding: 18px;
+    }
+
+    .header_list {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .txt_hidden {
+        font-size: 14px;
+    }
+
+    .card:hover {
+        transform: scale(1.2);
+        z-index: 999;
+    }
+
+}
+@media (max-width: 992px) {
+    .card {
+        width: 185px;
+    }
+    .dropdownsss {
+        display: none;
+    }
+    .card:hover {
+        transform: scale(1.1);
+    }
+    .far {
+        margin-top: 15px;
+    }
+    .podrobni {
+        font-size: 10px;
+    }
+
+}
+@media (max-width: 768px) {
+    .logo_img {
+        width: 90px;
+    }
+    .podrobni {
+        font-size: 8px;
+    }
+    .number_call {
+        display: none;
+    }
+    .button_danger {
+        display: none;
+    }
+    .invite_us {
+        display: none;
+    }
+    .dropdownsss {
+        display: none;
+    }
+    .fas {
+        width: 80px;
+        padding: 18px;
+    }
+    .podrobni {
+        font-size: 10px;
+    }
+    
+
+    .pedlock {
+        display: none;
+    }
+    .card {
+        width: 145px;
+    }
+    .section_text  {
+        font-size: 45px;
+    }
+    .cost {
+        color: #2F80ED;
+        font-size: 30px;
+    }
+    .fa-location-arrow {
+        display: none;
+    }
+    .fad.fa-phone-alt {
+        display: none;
+    }
+    .fad.fa-gavel{
+        display: none;
+    }
+    .choose_coun {
+        display: none;
+    }
+    .drop {
+        width: 100px;
+    }
+    .number_call {
+        font-size: 12px;
+    }
+    .come_in {
+        font-size: 12px;
+    }
+    .button_danger {
+        border-radius: 0px;
+        font-size: 12px;
+        width: 100px;
+    }
+    .start  {
+        display: flex;
+        column-gap: 25px;
+    }
+    .header_list {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 5px;
+    }
+    .dropdown-toggle {
+        white-space: nowrap;
+        background: #fff;
+        color: black;
+        border: none;
+    }
+    .dropdown-toggle:hover {
+        background: #fff;
+        color: black;
+        border: none;
+        outline: none;
+    }
+    .txt_hidden {
+        font-size: 8px;
+    }
+    .card:hover .txt_hidden {
+        transform: scale(1.4);
+    }
+    .card:hover .line {
+        background-color: #fff;
+    }
+    
+}
+@media (max-width: 736px) {
+    .card {
+        width: 140px;
+    }.podrobni {
+        font-size: 8px;
+    }
+    .number_call {
+        display: none;
+    }
+    .button_danger {
+        display: none;
+    }
+    .invite_us {
+        display: none;
+    }
+    .dropdownsss {
+        display: none;
+    }
+    .podrobni {
+        font-size: 10px;
+    }
+    .number_call {
+        font-size: 10px;
+    }
+    .come_in {
+        font-size: 10px;
+    }
+    .button_danger {
+        font-size: 10px;
+    }
+    .card:hover {
+        transform: translateY(-50px);
+        height: 100px;
+        
+    }
+    .card:hover .podrobni{
+        color: #fff;
+    }
+    
+    .me-2 {
+        width: 150px;
+        height: 20px;
+        display: flex;
+        margin-top: 10px;
+    }
+    .header_list { 
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
+}
+@media (max-width: 734px) {
+    .card {
+        width: 135px;
+    }
+    .card:hover .txt_hidden{
+        transform: scale(1.5);
+        text-align: center;
+    }
+    .podrobni {
+        font-size: 8px;
+    }
+    .number_call {
+        display: none;
+    }
+    .button_danger {
+        display: none;
+    }
+    .invite_us {
+        display: none;
+    }
+    .txt_hidden {
+        font-size: 7px;
+    
+    }
+    .dropdownsss {
+        display: none;
+    }
+}
+@media (max-width: 684px) {
+    .me-2 {
+        margin-top: 0;
+        height: 40px;
+    }
+    
+    .card {
+        width: 125px;
+        
+    }
+    .cards {
+        margin-top: 550px;
+    }
+    .dropdownsss {
+        display: none;
+    }
+    .card:hover .txt_hidden  {
+        font-size: 5px;
+        transform: scale(3);
+        margin-top: 20px;
+    }
+    
+}
+@media (max-width: 576px) {
+    .dropdownsss {
+        display: flex;
+        padding-top: 13px;
+
+    }
+    .dropdown-menu {
+        padding: 10px;
+    }
+    .number_call {
+        display: none;
+    }
+    .link_call {
+        display: none;
+    }
+    .third_part {
+        display: none;
+
+    }
+    .button_danger  {
+        display: none;
+    }
+    .start {
+        display: flex;
+        align-items: center;
+        
+    }
+   
+}
+/* @media (max-width: 414px) {} */
+/* @media (max-width: 412px) {} */
+/* @media (max-width: 375px) {} */
+/* @media (max-width: 360px) {} */
+/* @media (max-width: 320px) {} */

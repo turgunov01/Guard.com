@@ -28,6 +28,10 @@ a {
     
 }
 
+.dropdown-menu.show {
+    padding: 10px;
+}
+
 
 /* header */
 
@@ -36,6 +40,10 @@ a {
     align-items: center;
     column-gap: 20px;
     justify-content: space-between;
+    margin-top: 5px;
+}
+.fa-location-arrow:before{ 
+    display: none;
 }
 
 .fas {
@@ -137,7 +145,7 @@ span {
 
 .checkbox_location {
     display: flex;
-    margin-top: 10px;
+    /* margin-top: 10px; */
     margin-left: 70px;
 }
 
@@ -228,9 +236,11 @@ span {
 .cards {
     position: relative;
     display: flex;
-    margin-top: 550px;
+    margin-top: 400px;
     justify-content: space-between;
+    z-index: 999;
 }
+
 
 .card {
     width: 200px;
@@ -240,7 +250,10 @@ span {
 
 .card:hover{
     background: #EB5757;
-    margin-bottom: 60px;
+    transform: translateY(-50px);
+}
+.card:hover .podrobni{
+   color: white;
 }
 
 .card:hover {
@@ -266,6 +279,12 @@ span {
     height: 2px ;
     width: 24px;
 }
+
+.dropdownssss {
+    display: flex;
+    margin-top: 10px;
+}
+
 
 
 /* main */
