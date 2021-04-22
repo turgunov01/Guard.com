@@ -225,11 +225,7 @@
     .button_danger {
         font-size: 10px;
     }
-    .card:hover {
-        transform: translateY(-50px);
-        height: 100px;
-        
-    }
+    
     .card:hover .podrobni{
         color: #fff;
     }

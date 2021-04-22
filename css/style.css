@@ -236,7 +236,7 @@ span {
 .cards {
     position: relative;
     display: flex;
-    margin-top: 400px;
+    margin-top: 550px;
     justify-content: space-between;
     z-index: 999;
 }
